@@ -9,8 +9,7 @@ The **Time Table Management System** is a comprehensive desktop application deve
 ## Features
 
 ### **Core Functionalities**
-- **Timetable Creation**: Automatically generate timetables based on inputs like available classrooms, teachers, and time slots.
-- **Conflict Detection**: Identifies and resolves scheduling conflicts to ensure smooth operations.
+- **Timetable Creation**: Generate timetables based on inputs like available classrooms, teachers, and time slots.
 - **Classroom Management**: Tracks and manages classroom usage and availability.
 - **User Roles and Permissions**: Role-based access control for administrators and staff.
 
